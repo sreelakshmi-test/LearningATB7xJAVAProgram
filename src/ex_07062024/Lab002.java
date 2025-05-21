@@ -6,5 +6,6 @@ public class Lab002 {
       System.out.println(2*2);
        System.out.println(2/2);
        System.out.println(2-2);
+        System.out.println(3/2);//integer part only displayed
     }
 }
